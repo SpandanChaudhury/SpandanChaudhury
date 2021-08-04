@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science, Deep Learning and AI, and Web Development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on any project that i would be capable of.
-- 📫 How to reach me 
+- 📫 How to reach me - mail me at => spandanchaudhury19@gmail.com
 
 <!---
 SpandanChaudhury/SpandanChaudhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
