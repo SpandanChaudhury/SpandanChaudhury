@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpandanChaudhury
 - 👀 I’m interested in Machine Learning, Data Science, Deep Learning and AI, and Web Development.
-- 🌱 I’m currently learning Web Developement.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any project that i would be capable of.
 - 📫 How to reach me - mail me at => spandanchaudhury19@gmail.com
 
